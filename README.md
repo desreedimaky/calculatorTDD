@@ -4,7 +4,8 @@ This project implements a simple calculator in **Java** following the **Test Dri
 
 ## Features
 
-- **Add Function**: Adds two or more integers together.
+- **Add Function**: A![TEST PASS](https://github.com/user-attachments/assets/a759ff36-d1c2-4439-857f-453298ef00e0)
+dds two or more integers together.
 - **Multiply Function**: Multiplies two or more integers.
 - **Test Driven Development (TDD)**: The project is developed using TDD, ensuring tests are written before implementing functionality.
 - **JUnit 5**: Unit testing framework for Java, used to verify the correctness of the calculator functions.
@@ -30,3 +31,10 @@ This project follows the Test Driven Development (TDD) process:
 
    ```bash
    git clone https://github.com/yourusername/SimpleCalculatorTDD.git
+
+
+![Uploading TEST PASS.PNG…]()
+
+
+![TEST FAIL](https://github.com/user-attachments/assets/8738b1bf-d05f-4be5-ba7f-35a18949d26c)
+
