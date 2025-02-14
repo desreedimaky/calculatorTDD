@@ -32,9 +32,12 @@ This project follows the Test Driven Development (TDD) process:
    git clone https://github.com/yourusername/SimpleCalculatorTDD.git
 
 
+## TEST FAIL
 
 ![TEST FAIL](https://github.com/user-attachments/assets/8738b1bf-d05f-4be5-ba7f-35a18949d26c)
 
+
+## TEST PASS
 
 ![TEST PASS](https://github.com/user-attachments/assets/b27f9ec4-88e8-45ab-a92d-d3981d15994a)
 
